@@ -1,0 +1,24 @@
+.quadrado{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 100px;}
+
+.quadrado1{
+     width: 200px;
+     height: 200px;
+     background-color: black;
+     position: absolute;
+     top:100px;
+     left: 400px;
+}
+
+.quadrado2{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    top: 100px;
+    left: 700px;
+
+}
